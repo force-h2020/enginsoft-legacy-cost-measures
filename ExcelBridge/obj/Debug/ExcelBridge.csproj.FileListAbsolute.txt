@@ -1,0 +1,9 @@
+c:\users\daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\bin\Debug\ExcelBridge.exe.config
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\bin\Debug\ExcelBridge.exe
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\bin\Debug\ExcelBridge.pdb
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\obj\Debug\ExcelBridge.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\obj\Debug\ExcelBridge.csproj.ResolveComReference.cache
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\obj\Debug\ExcelBridge.exe
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\obj\Debug\ExcelBridge.pdb
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\bin\Debug\CommandLine.dll
+C:\Users\Daniele\documents\visual studio 2012\Projects\ExcelBridge\ExcelBridge\bin\Debug\CommandLine.xml
